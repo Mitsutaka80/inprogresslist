@@ -1,19 +1,19 @@
 ## Components
 Reactive Native includes built in components and APIs
 
-***Basic Components***
+***Basic Components***:
 View, Text, Image, TextInput, ScrollView, StyleSheet
 
-***UI***
+***UI***:
 Button, Picker, Slider, Switch
 
-***List View***
+***List View***:
 FlatList, SctionList 
 
-***iOS***
+***iOS***:
 ActionSHeetIoS, AlertIOS, etc
 
-***Andorid***
+***Andorid***:
 BackHnadler, DatePickerAndroid, etc
 
 ## Creating a project 
