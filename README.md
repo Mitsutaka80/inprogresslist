@@ -44,5 +44,9 @@ react-native link react-native-vector-icons
 
 `npx react-native run-android`
 
+7. Deploy and app to APK. [Click here](https://reactnative.dev/docs/signed-apk-android) to find out about it more.
+
+'./gradlew bundleRelease' 
+
 
 
