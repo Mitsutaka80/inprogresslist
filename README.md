@@ -47,6 +47,7 @@ react-native link react-native-vector-icons
 7. Deploy and app to APK. [Click here](https://reactnative.dev/docs/signed-apk-android) to find out about it more.
 
 ` ./gradlew bundleRelease`
+` ./gradlew assembleRelease`
 
 
 
